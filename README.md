@@ -1,6 +1,7 @@
 
-An SPA react project 
-      in thismproject used router and axios
+# An SPA react project 
+
+  This project used router and axios
 
 
 # Getting Started with Create React App
